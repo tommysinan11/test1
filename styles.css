@@ -1,0 +1,17 @@
+/* Dine styles her */
+#s1{
+  padding: 2rem;
+  background: hsl(82, 61%, 49%);
+  border-radius: 8px;
+
+}
+body{
+  background-color: bisque;
+}
+#age_feldt{
+  margin-left: 10px;
+}
+#f1{
+  margin-right: 10px;
+}
+
